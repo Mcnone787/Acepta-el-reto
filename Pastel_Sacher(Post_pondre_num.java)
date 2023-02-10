@@ -27,7 +27,6 @@ public class pastel {
             calc=calc+calc;
             return EncontrarMin(calc, i_main,llegar);
         }
-      
      
     }
 }
